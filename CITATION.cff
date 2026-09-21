@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, code, or research in your work, please cite it as below."
+authors:
+  - family-names: "Sahab"
+    given-names: "Sameer"
+    affiliation: "Department of Computer Science & Engineering, East West University, Dhaka"
+title: "Digital Biofeedback System for CPPS Pelvic Floor, also known as non bacterial Prostatitis"
+version: 1.0.0
+date-released: 2026-09-21
+url: "https://github.com/SameerAlSahab/SomaPelvis"
